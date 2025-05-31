@@ -1,5 +1,12 @@
 # ESP32 Drone PCB Project
 
+---
+title: "PCB Drone"
+author: "Hassan Mohamed Mahmoud"
+description: "Esp32 based drone with app controller"
+created_at: "2025-05-30"
+---
+
 This project is a custom-designed Printed Circuit Board (PCB) for building a DIY drone using the ESP32 microcontroller. The board includes essential connections for motor drivers, sensors, and power distribution, tailored specifically for a quadcopter frame. It's built to integrate with the open-source ESP-Drone firmware, making it suitable for hobbyists and researchers working on drone technology.
 
 ## Features
@@ -55,12 +62,6 @@ The drone is controllable via the official **ESP-Drone Android App** included in
 Updated firmware files for the ESP32 are available inside the `Firmware/` directory. Flash using the provided `.bin` files or build from source in `Firmware/esp-drone`.
 
 ---
-
-## Additional Files
-
-- Drone frame drawing: `ESP32 Drone Drawing for popsicle stick frame build v2.pdf`
-- Motor direction chart: `DIY ESP32 Drone - Motor Direction chart.jpg`
-- Components overview: `DIY ESP32 Drone - Components Required.jpg`
 
 ---
 
