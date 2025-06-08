@@ -6,7 +6,7 @@
 
 ---
 
-## 📅 June 8, 2025
+## 📅 May 29, 2025
 
 **🕒 Time Spent:** 3 hours  
 **🛠️ Activities:**
@@ -21,7 +21,7 @@
 
 ---
 
-## 📅 June 10, 2025
+## 📅 June 2, 2025
 
 **🕒 Time Spent:** 2 hours  
 **🛠️ Activities:**
@@ -35,7 +35,7 @@
 
 ---
 
-## 📅 June 12, 2025
+## 📅 June 8, 2025
 
 **🕒 Time Spent:** 3 hours  
 **🛠️ Activities:**
