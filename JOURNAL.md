@@ -44,8 +44,6 @@
 
 ---
 
----
-
 ##June 11, 2025
 
 **The PCB arrived from the JLC**
