@@ -14,7 +14,7 @@
 - Started designing the schematic for the circuit
 - Researched microcontroller options (leaning towards STM32 or ATmega328P)
 
-** Media:**
+**Media:**
 ![Initial Schematic](Schematic_ESP32-Drone.jpg)
 
 ---
@@ -27,7 +27,7 @@
 - Started component footprint placement on PCB
 - Ensured proper sizing for ESC pads and XT60 connector
 
-** Media:**
+**Media:**
 ![PCB Layout](PCB_Top.png)
 
 ---
@@ -41,7 +41,7 @@
 - Ran DRC checks
 - Generated Gerber files and prepared for JLCPCB order
 
-** Media:**
+**Media:**
 ![Gerber Preview](3D_View.jpg)  
 
 ---
@@ -51,7 +51,7 @@
 
 **The PCB arrived from the JLC**
 
-** Media:**
+**Media:**
 ![Live Image](Live_view.png)
 
 ---
