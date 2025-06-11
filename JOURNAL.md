@@ -18,6 +18,7 @@
 ![Initial Schematic](Schematic_ESP32-Drone.jpg)
 
 ---
+---
 
 ## June 2, 2025
 
@@ -29,6 +30,7 @@
 **Media:**
 ![PCB Layout](PCB_Top.png)
 
+---
 ---
 
 ##June 8, 2025
@@ -42,6 +44,7 @@
 **Media:**
 ![Gerber Preview](3D_View.jpg)  
 
+---
 ---
 
 ##June 11, 2025
