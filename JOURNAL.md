@@ -6,7 +6,7 @@
 
 ---
 
-##May 29, 2025
+## May 29, 2025
 
 **Time Spent:** 3 hours
 **Activities:**
@@ -27,13 +27,13 @@
 - Started component footprint placement on PCB
 - Ensured proper sizing for ESC pads and XT60 connector
 
-**Media:**
+** Media:**
 ![PCB Layout](PCB_Top.png)
 
 ---
 ---
 
-##June 8, 2025
+## June 8, 2025
 
 **Time Spent:** 3 hours
 **Activities:**
@@ -41,17 +41,17 @@
 - Ran DRC checks
 - Generated Gerber files and prepared for JLCPCB order
 
-**Media:**
+** Media:**
 ![Gerber Preview](3D_View.jpg)  
 
 ---
 ---
 
-##June 11, 2025
+## June 11, 2025
 
 **The PCB arrived from the JLC**
 
-**Media:**
+** Media:**
 ![Live Image](Live_view.png)
 
 ---
